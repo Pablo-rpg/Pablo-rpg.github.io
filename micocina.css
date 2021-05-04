@@ -1,0 +1,29 @@
+*{
+    background-color: burlywood
+}
+.Servicioss{
+    clear: both;
+    overflow:auto;
+}
+nav{
+    float: right;
+}
+img{
+    float: left;
+}
+ul li{
+    display: inline;
+    font-size: 1.5em;
+    padding: 10px;
+}
+ul li a{
+    text-decoration: none;
+    color: rgb(129, 46, 46);
+}
+ul li a:hover{
+    color: white;
+}
+.titulo{
+    color: rgb(187, 57, 57);
+}
+    

@@ -1,0 +1,25 @@
+*{
+    background-color: rgb(255, 103, 129);
+}
+.contenedor{
+    clear: both;
+    overflow:auto;
+}
+nav{
+    float: right;
+}
+img{
+    float: left;
+}
+ul li{
+    display: inline;
+    font-size: 1.5em;
+    padding: 10px;
+}
+ul li a{
+    text-decoration: none;
+}
+ul li a:hover{
+    color: white;
+}
+    
