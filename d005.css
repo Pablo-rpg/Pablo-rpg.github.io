@@ -6,3 +6,6 @@ section{
     color: rgb(240, 169, 144);
     background-color: rgb(89, 160, 89);
 }
+article{
+    background-color: darkmagenta;
+}
