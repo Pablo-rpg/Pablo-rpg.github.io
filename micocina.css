@@ -1,7 +1,10 @@
 *{
     background-color: burlywood
 }
-
+.servicioss{
+    clear: both;
+    overflow: auto;
+}
 nav{
     float: right;
 }
