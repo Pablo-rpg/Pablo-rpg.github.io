@@ -1,3 +1,36 @@
+h2{
+    color:#ffa500
+    ;
+}
 .art01{
-    background-image: url();
+    background-image: url(/Fotos/gallina.png);
+    background-size: contain;
+    background-color: bisque;
+    color: rgb(93, 45, 138);
+}
+.art02{
+    width:900px ;
+    height:250px ;
+    background-image: url(/Fotos/computer.png);
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+}
+div{
+
+}
+.art03{
+    overflow: hidden;
+    background-image: url(/Fotos/coco.png);
+    background-repeat: repeat-y;
+    background-size: cover;
+    background-attachment: scroll;
+}
+.art04{
+    width:900px ;
+    height:250px ;
+    background-color: cadetblue;
+    background-image: url(/Fotos/computer.png);
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+    background-position: 10% 40%;
 }

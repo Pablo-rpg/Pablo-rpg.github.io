@@ -1,0 +1,28 @@
+.arr01{
+    background-color: chocolate;
+    color: rgb(31, 39, 31);
+    background-image: url(/Fotos/coco.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.arr02{
+    background-color: cornflowerblue;
+    color: rgb(63, 7, 7);
+    background-image: url(/Fotos/gallina.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.arr03{
+    background-color: darkgoldenrod;
+    color: rgb(12, 68, 12);
+    background-image: url(/Pictures/kitchen-731351_1920.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.arr04{
+    background-color: darkgreen;
+    color: rgb(38, 24, 128);
+    background-image: url(/Pictures/Img06.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
